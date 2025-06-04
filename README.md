@@ -1,7 +1,6 @@
-## Hello world 👋
-
-- 🔭 **I’m currently working on** becoming a coder. I am just a newbie.  
-- 🌱 **I’m currently learning** markdown, html and css.  
+## Hello 🌏 my name is Lillie 🪷
+🔥🔥🔥
+- 💡 **I’m currently working on** becoming a coder, I am just a newbie so learning the basics (like HTML and CSS).
 - 👯 **I’m looking to collaborate on** ... hopefully something in the future.  
 - 🤔 **I’m looking for help with** ... not sure yet.  
 - 💬 Ask me about ...  
