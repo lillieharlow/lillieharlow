@@ -1,5 +1,5 @@
-# *HELLO* 🌏 my name is Lillie 🪷
-### Here is 4 points about me!
+# *HELLO* 🌏 my name is Lillie 🫠
+### Here are 4 points about me!
 - I am a student at coder academy and starting my journey in web deveopment.
 - I am currently working on learning ***EVERYTHING*** there is to know. Which is a lot when you know nothing.
 Beginning with HTML & CSS! I love working on websites and making things colourful, fun and interactive.
