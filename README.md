@@ -1,8 +1,8 @@
-## Hello 🌏 my name is Lillie 🪷
-🔥🔥🔥
-- 💡 **I’m currently working on** becoming a coder, I am just a newbie so learning the basics (like HTML and CSS).
-- 👯 **I’m looking to collaborate on** ... hopefully something in the future.  
-- 🤔 **I’m looking for help with** ... not sure yet.  
-- 💬 Ask me about ...  
-- 📫 How to reach me: ...  
+# *HELLO* 🌏 my name is Lillie 🪷
+### Here is 4 points about me!
+- I am a student at coder academy and starting my journey in web deveopment.
+- I am currently working on learning ***EVERYTHING*** there is to know. Which is a lot when you know nothing.
+Beginning with HTML & CSS! I love working on websites and making things colourful, fun and interactive.
+- I would love to collaborate in the future when my skills have progressed.
+The best way to contact me is via email.
 - ⚡ Fun fact: ...  
