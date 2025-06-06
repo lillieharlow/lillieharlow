@@ -8,6 +8,8 @@ I'm a student at Coder Academy where I'm learning ***EVERYTHING*** there is to k
 - 🌏 I live in Melbourne, Australia but I'm originally form a very small town in New Zaland called Whakatu.
 - 🌭 I have two fluffy, standard sized sausage dogs called Puku and Pirate.
 - 🧶 I make knitted garments and ship them all over the world with my knitwear design business, [Chunky Boy](https://chunkyboyknits.com/).
+<br>
+<br>
 [![Homepage of Chunky Boy Knits](/Chunky_Boy_Home.png)](https://chunkyboyknits.com/)
 
 ## What I'm currently learning
