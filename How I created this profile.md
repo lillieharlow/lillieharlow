@@ -37,13 +37,13 @@
 - <mark>Highlight</mark>  
 ```<mark>text</mark>``` OR ```==text==```
 
-## Add skill icons[^6]
+## How to add skill icons[^6]
 1. Add code (note: same syntax as adding an external link to an image)  
 ```[![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)```
 2. [Find your skill icons here](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)
 3. Change ```?i=html,css``` to add all your skill icons. Seperate each icon by ",".
 
-## Add an email 'pop up'[^3]
+## Adding an email 'pop up'[^3]
 - Enclose your email adress in "<>"  
 ```<your email address>```
 
