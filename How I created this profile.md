@@ -21,7 +21,7 @@
 2. Adjust text, font, colour, etc and add animation to md file like you would an image  
 ```![alt text](url)```
 
-## External links[^3][^4][^5]
+## Adding External links[^3][^4][^5]
 - To add a link to your text  
 ```[Text you want to see](url)```
 - To add a link to an image  
