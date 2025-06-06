@@ -27,5 +27,6 @@ I'm a student at Coder Academy where I'm learning ***EVERYTHING*** there is to k
 - ... watch this space.
 
 ## Contact info
-
-Email: <chapman.lillie@gmail.com>
+ 
+[![Linkedin profile](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev): [LinkedIn Profile](https://www.linkedin.com/in/lillie-chapman-3a3b72369/)  
+Email: <chapman.lillie@gmail.com> 
