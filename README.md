@@ -5,21 +5,26 @@
 <br>
 I'm passionate about crafting accessiblity-first web applications. I love learning new technologies, building real-world projects, and collaborating with others.
 <br>
-## Languages
+Languages
+<br>
 ![Languages](https://skillicons.dev/icons?i=js,python,html,css)
 <br>
-## Frameworks/libraries:
+Frameworks/libraries:
+<br>
 ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,django,flask)
 <br>
-## Tools:
+Tools:
+<br>
 ![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,insomnia,aws,gcp,render)
 <br>
-## Databases:
+Databases:
+<br>
 ![Databases](https://skillicons.dev/icons?i=mongodb,postgres,sqlite)
 <br>
-## Design/Collab:
+Design/Collab:
+<br>
 ![Design/Collab](https://skillicons.dev/icons?i=figma,ps,trello)](https://skillicons.dev)
 
 ## Open to work!
 
-Contact me via [LinkedIn Profile](https://www.linkedin.com/in/lillie-chapman-3a3b72369/)  
+Contact me via [LinkedIn](https://www.linkedin.com/in/lillie-chapman-3a3b72369/)  
