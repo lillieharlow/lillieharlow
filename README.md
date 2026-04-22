@@ -15,7 +15,7 @@ I'm passionate about crafting accessibility-first web applications. I love learn
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,insomnia,aws,gcp,render)
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,aws,gcp) ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 **Databases**
 
@@ -23,7 +23,7 @@ I'm passionate about crafting accessibility-first web applications. I love learn
 
 **Design / Collaboration**
 
-![Design/Collab](https://skillicons.dev/icons?i=figma,ps,trello)
+![Design/Collab](https://skillicons.dev/icons?i=figma,ps) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ---
 
