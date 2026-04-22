@@ -5,6 +5,11 @@ I'm passionate about crafting accessibility-first web applications. I love learn
 
 ---
 
+🚀 **Open to Work!**  
+📫 Contact me via [LinkedIn](https://www.linkedin.com/in/lillie-chapman-3a3b72369/)
+
+---
+
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=js,python,html,css)
@@ -24,8 +29,3 @@ I'm passionate about crafting accessibility-first web applications. I love learn
 **Design / Collaboration**
 
 ![Design/Collab](https://skillicons.dev/icons?i=figma,ps) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) ![draw.io](https://img.shields.io/badge/draw.io-FF9900?style=flat-square&logo=diagramsdotnet&logoColor=white)
-
----
-
-🚀 **Open to Work!**  
-📫 Contact me via [LinkedIn](https://www.linkedin.com/in/lillie-chapman-3a3b72369/)
