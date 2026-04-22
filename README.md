@@ -1,10 +1,7 @@
 [![Animated header that reads Hello! I'm Lillie](https://readme-typing-svg.herokuapp.com?font=chunk&size=30&pause=1000&color=D7F713&background=000000&center=true&vCenter=true&width=435&lines=Hello!+I'm+Lillie+%F0%9F%AB%A0)](https://git.io/typing-svg)
 
 I'm passionate about crafting accessibility-first web applications. I love learning new technologies, building real-world projects, and collaborating with others.
-
----
-
-🚀 **Open to Work!**  
+<br>
 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/lillie-chapman-3a3b72369/)
 
 ---
