@@ -1,4 +1,3 @@
-![Yellow star with smiley faces on a black](/banner_image.png)
 [![Animated header that reads Hello! I'm Lillie](https://readme-typing-svg.herokuapp.com?font=chunk&size=30&pause=1000&color=D7F713&background=000000&center=true&vCenter=true&width=435&lines=Hello!+I'm+Lillie+%F0%9F%AB%A0)](https://git.io/typing-svg)
 
 I'm passionate about crafting accessibility-first web applications. I love learning new technologies, building real-world projects, and collaborating with others.
@@ -29,3 +28,5 @@ I'm passionate about crafting accessibility-first web applications. I love learn
 **Design / Collaboration**
 
 ![Design/Collab](https://skillicons.dev/icons?i=figma,ps) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) ![draw.io](https://img.shields.io/badge/draw.io-FF9900?style=flat-square&logo=diagramsdotnet&logoColor=white)
+
+![Yellow star with smiley faces on a black](/banner_image.png)
